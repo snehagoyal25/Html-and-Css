@@ -16,8 +16,14 @@ div{
 }
 
 img{
-  height:100px;
-  margin-left:50px;
-  margin-top:40px;
+  height:40px;
+  margin-left:40px;
+  margin-top:30px;
   border:none;
+}
+
+#sign{
+  margin-left:40px;
+  font-size:40px;
+  margin-top:25px;
 }
