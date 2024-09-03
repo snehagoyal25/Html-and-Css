@@ -1,0 +1,21 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+body{
+  background-color: #dadada;
+}
+
+div{
+  height:400px;
+  width:800px;
+  border-radius: 10%;
+  margin:100px 0px 10px 110px;
+  background-color:white;
+}
+
+img{
+  height:100px;
+  margin:5px 0px 0px 3px;
+}
