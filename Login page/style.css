@@ -1,13 +1,14 @@
 *{
   margin:0px;
   padding:0px;
+  font-family: "poppins";
 }
 
 body{
-  background-color: rgb(211,211,211);
+  background-color:rgb(240 244 249);
 }
 
-div{
+#box{
   height:400px;
   width:800px;
   border-radius: 40px;;
@@ -25,19 +26,30 @@ img{
 #sign{
   margin-left:40px;
   font-size:40px;
-  margin-top:25px;
+  margin-top:50px;
+  width:200px;
 }
 
 #text{
   margin-left:40px;
   margin-top:20px;
+  width:300px;
 }
 
 input{
-  margin-left:600px;
-  margin-bottom:700px;
-  margin-right:60px;
-  padding-left:3px;
+  margin-bottom:40px;
   height:40px;
-  width:200px;
+  width:210px;
+
 }
+
+a{
+  text-decoration:none;
+  margin-left:550px;
+}
+
+#not{
+  margin-left:550px;
+
+}
+
