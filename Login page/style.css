@@ -45,11 +45,11 @@ input{
 
 a{
   text-decoration:none;
-  margin-left:550px;
+  text-align:right;
 }
 
 #not{
-  margin-left:550px;
-
+  text-align:right;
+ margin-right:30px;
 }
 
